@@ -1,5 +1,7 @@
-let nome = "Deivid Marcio dos Santos Ferreira";
-let Email = "deivid_marcio3110@hotmail.com";
-let profissao = "Técnico em O&M";
-let idade = 33;
-let paisQueDesejaMorrar = "Estados Unidos";
+let nome = " Deivid Marcio dos Santos Ferreira\n";
+let Email = "deivid_marcio3110@hotmail.com\n";
+let profissao = "Técnico em O&M\n";
+let idade = 33 + "\n";
+let paisQueDesejaMorrar = "Estados Unidos\n";
+
+console.log(nome, Email, profissao, idade, paisQueDesejaMorrar);
